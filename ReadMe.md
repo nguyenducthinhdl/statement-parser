@@ -1,4 +1,4 @@
-# Parse the statement donation contributor provided by Vietnam Government in 12 Sept 2004
+# Parse the statement donation contributor provided by Vietnam Government in 12 Sept 2024
 
 Exported parsing file: https://docs.google.com/spreadsheets/d/16HQPI1pYztqYs_QuRxCeYVunBZwZxbcXMzz0JEKNcl8/edit?gid=327128204#gid=327128204
 
